@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         YouTube metadata row line break
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Insert a line break after the first span in each metadata row
 // @match        https://www.youtube.com/*
 // @downloadURL  https://raw.githubusercontent.com/neconohitomi/ytMetadataRowLineBreak/main/ytMetadataRowLineBreak.user.js
 // @updateURL    https://raw.githubusercontent.com/neconohitomi/ytMetadataRowLineBreak/main/ytMetadataRowLineBreak.user.js
-// // @grant        none
+// @grant        none
 // ==/UserScript==
 
 (() => {
